@@ -1,5 +1,3 @@
-# crawllerFirst
-Primeiro Crawller
+# Primeiro Crawller
 Usar a lib BeautifulSoup com python!
-
-Aqui a ideia é buscar informações de um site automaticamente rodando um script
+Primeiras impressões de como utilizar a biblioteca BeautifulSoup para extrair dados de algum site.
